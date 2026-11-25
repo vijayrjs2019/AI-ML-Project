@@ -1,4 +1,4 @@
-# [ ❤️ Heart Stroke Prediction](https://github.com/vijayrjs2019/AI-ML-Project)
+# [ ❤️ Heart Stroke Prediction](https://github.com/vijayrjs2019/AI-ML-Project/tree/d0644f61f6077682610271f91df5328121589fc3/Heart%20Stroke%20predication)
 
 ## 🔑 Key Features
 
