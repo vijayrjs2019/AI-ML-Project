@@ -1,25 +1,8 @@
 # 🤖 AI & Machine Learning Projects
 
-## 1. ❤️ [Heart Stroke Prediction](https://github.com/vijayrjs2019/AI-ML-Project/tree/d0644f61f6077682610271f91df5328121589fc3/Heart%20Stroke%20predication)
-
-### 📌 Project Overview
-
-Heart Stroke Prediction is a Machine Learning project that analyzes health-related data to predict the possibility of a stroke using different classification algorithms.
-
-### 🔑 Key Features
-
-1. ❤️ **Heart Stroke Prediction** — Predict the possibility of a stroke using Machine Learning algorithms.
-2. 📊 **Data Analysis & Visualization** — Perform Exploratory Data Analysis (EDA) using Pandas, Matplotlib, and Seaborn.
-3. 🧹 **Data Preprocessing** — Handle missing values, categorical data, encoding, and feature scaling.
-4. 🤖 **Machine Learning Models** — Implement classification algorithms such as Logistic Regression, Decision Tree, Random Forest, KNN, and SVM.
-5. ⚙️ **Model Training & Testing** — Split datasets into training and testing sets to evaluate model performance.
-6. 📈 **Model Evaluation** — Analyze model performance using Accuracy, Precision, Recall, F1-Score, and Confusion Matrix.
-7. 🎯 **Hyperparameter Tuning** — Improve model performance using GridSearchCV and Cross Validation.
-8. 🔍 **Feature Analysis** — Identify important health-related features that influence stroke prediction.
-
 ---
 
-## 2. 🧠 Mental Health Score (Mansik Santulan Score)
+## 1. 🧠 [Mental Health Score (Mansik Santulan Score)](https://github.com/vijayrjs2019/AI-ML-Project/tree/main/Mansik%20Santulan%20Score)
 
 ### 📌 Project Overview
 
@@ -40,22 +23,19 @@ The project focuses on using data analysis and Machine Learning techniques to un
 9. 🖥️ **Interactive Application** — Provide an interactive interface using Streamlit for entering information and viewing prediction results.
 10. 📦 **Model Deployment** — Save and reuse the trained Machine Learning model for predictions.
 
-### 🎯 Project Objectives
+## 2. ❤️ [Heart Stroke Prediction](https://github.com/vijayrjs2019/AI-ML-Project/tree/d0644f61f6077682610271f91df5328121589fc3/Heart%20Stroke%20predication)
 
-- Explore mental well-being through data-driven analysis.
-- Apply Machine Learning techniques to score prediction.
-- Identify relevant patterns and features in the dataset.
-- Develop an interactive mental health score prediction application.
-- Demonstrate practical applications of Artificial Intelligence and Machine Learning.
+### 📌 Project Overview
 
----
+Heart Stroke Prediction is a Machine Learning project that analyzes health-related data to predict the possibility of a stroke using different classification algorithms.
 
-## 🛠️ Technologies & Libraries
+### 🔑 Key Features
 
-- Python
-- NumPy
-- Pandas
-- Matplotlib
-- Seaborn
-- Scikit-learn
--
+1. ❤️ **Heart Stroke Prediction** — Predict the possibility of a stroke using Machine Learning algorithms.
+2. 📊 **Data Analysis & Visualization** — Perform Exploratory Data Analysis (EDA) using Pandas, Matplotlib, and Seaborn.
+3. 🧹 **Data Preprocessing** — Handle missing values, categorical data, encoding, and feature scaling.
+4. 🤖 **Machine Learning Models** — Implement classification algorithms such as Logistic Regression, Decision Tree, Random Forest, KNN, and SVM.
+5. ⚙️ **Model Training & Testing** — Split datasets into training and testing sets to evaluate model performance.
+6. 📈 **Model Evaluation** — Analyze model performance using Accuracy, Precision, Recall, F1-Score, and Confusion Matrix.
+7. 🎯 **Hyperparameter Tuning** — Improve model performance using GridSearchCV and Cross Validation.
+8. 🔍 **Feature Analysis** — Identify important health-related features that influence stroke prediction.
