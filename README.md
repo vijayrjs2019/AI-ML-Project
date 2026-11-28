@@ -1,7 +1,7 @@
 # 🤖 AI & Machine Learning Projects
 
 ---
-## 1. 🏠 [Room Type Predictor – NYC Airbnb](https://github.com/vijayrjs2019/AI-ML-Project/tree/main/Room%20Type%20Predictor%20%C2%B7%20NYC%20Airbnb)
+## 1. 🏠 [Room Type Predictor – NYC Airbnb](https://github.com/vijayrjs2019/AI-ML-Project/tree/main/Room%20Type%20Predictor%20NYC%20Airbnb)
 
 ### 📌 Project Overview
 
